@@ -1,2 +1,2 @@
-# Sorting-Algorithms
+# Sorting Algorithms 💫
 Most popular sorting algorithms in Javascript
